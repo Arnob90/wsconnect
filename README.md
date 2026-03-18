@@ -20,3 +20,11 @@ The help screen basically explains it all.
 │ --help                              Show this message and exit.                                                                      │
 ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
 ```
+
+## Installation
+
+One way is to just:
+
+```fish
+pipx install 'git+https://github.com/Arnob90/wsconnect.git'
+```
